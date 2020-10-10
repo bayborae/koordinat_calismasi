@@ -8,3 +8,8 @@ Vaktim olursa ve sıkılmazsam programı geliştirebilirim,
 C99 standartları ile test edildi.
 
 Not: github açısından ilk yüklemem amatör geldiyse üzgünüm :)
+
+
+●Telegram
+
+[![telegram](https://cdn1.iconfinder.com/data/icons/social-shade-rounded-rects/512/telegram-64.png "contact")](https://t.me/tempestas)
